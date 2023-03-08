@@ -1,4 +1,9 @@
 body {
-    background: yellow;
+    background:salmon;
     margin:10px;
 }
+
+nav{
+    background: pink;
+}
+
